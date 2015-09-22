@@ -19,6 +19,7 @@ public class DemoGit {
     
         System.out.println("Test 9951");
         System.out.println("we are almost done testing...");
+        System.out.println("almost");
     }
     
 }
